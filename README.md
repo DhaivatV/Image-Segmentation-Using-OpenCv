@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Flask Image Segmentation API</title>
+
 </head>
 <body>
 	<h1>Flask Image Segmentation API</h1>
